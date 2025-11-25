@@ -22,3 +22,7 @@ I had to install composer, npm, mysql, php, and many extentions within vscode.
 Built using Laravel, Bootstrap, and VS Code.
 
 I used Microsoft Copilot to fix (syntax) errors and improve code quality while explaning the different codes and purposes/outcomes for better understanding.
+
+### Extra
+
+Thank you so much, sir, for extending the deadline for this. Having the extra time made a real difference, as it allowed me to go back, refine my work, and make sure I met all the rquirements properly. I truly appreciate your consideration, it motivated me to put in  my best effort. ❤️
